@@ -1,0 +1,3 @@
+{
+  "mongoURI": "mongodb+srv://devconnectadmin:devconnectadmin123@devconnect-plnho.mongodb.net/test?retryWrites=true&w=majority"
+}
